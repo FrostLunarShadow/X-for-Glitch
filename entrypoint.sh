@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'glitch'}  # WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID=${UUID:-'3a5bbed1-b096-45ca-b202-56fe950f7487'}
+UUID=${UUID:-'15b35b3c-c7de-4c78-a6e5-b19e50b875ac'}
 WEB_USERNAME=${WEB_USERNAME:-'1'}
 WEB_PASSWORD=${WEB_PASSWORD:-'123'}
 
